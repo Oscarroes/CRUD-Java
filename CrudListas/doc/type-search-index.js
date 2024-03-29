@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"crudListas","l":"Controlador"},{"p":"crudListas","l":"Pokedex"},{"p":"crudListas","l":"Pokemon"},{"p":"crudListas","l":"Utilidades"}];updateSearchResults();
